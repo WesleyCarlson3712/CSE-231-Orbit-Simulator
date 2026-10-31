@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Lab07.cpp" />
+    <ClCompile Include="physics.cpp" />
     <ClCompile Include="position.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="uiDraw.cpp" />
@@ -148,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="direction.h" />
+    <ClInclude Include="physics.h" />
     <ClInclude Include="position.h" />
     <ClInclude Include="test.h" />
     <ClInclude Include="testDirection.h" />
